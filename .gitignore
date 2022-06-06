@@ -1,0 +1,15 @@
+
+<<<<<<< HEAD
+.ipynb_checkpoints/starter-notebook - Othuke-checkpoint.ipynb
+.ipynb_checkpoints/starter-notebook - Sandile-checkpoint.ipynb
+=======
+.ipynb_checkpoints/starter-notebook - Team 9-checkpoint.ipynb
+.ipynb_checkpoints/starter-notebook - Othuke-checkpoint.ipynb
+>>>>>>> 20f2bc1187cb8c3b79d277e63f882ff6a62ba1c5
+.ipynb_checkpoints/starter-notebook - Michael-checkpoint.ipynb
+submission_gsc.csv
+submission_aml.csv
+submission_rsc.csv
+submission_xgb.csv
+submission_scaled.csv
+*.ipynb
